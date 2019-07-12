@@ -3,6 +3,8 @@ Basically just putting this together so I can gather texts and grind through som
 
 I listed the texts in chronological order - do not feel compelled to read them as such! Actually the author of the above Quora post suggests reading them non-linearly, so feel free to follow that order if you'd like as well.
 
+Also, note this list is just Western philosophy. Would love it if somebody added some Eastern stuff! I like Eastern works, so I might add them later, but if somebody else wants to jump in that would be great!
+
 It's not necessarily recommended to just jump into reading these original texts - having some frame of reference is often considered a good idea. You can get this by taking college level philosophy classes, reading history of philosophy books, or many other ways.
 
 I've been getting my feet wet listening to Philosophize this (http://philosophizethis.org/) - shout out to Stephen West for making it! If anybody has any of their own resources for starting out, feel free to raise an issue or make a PR putting them... somewhere.
